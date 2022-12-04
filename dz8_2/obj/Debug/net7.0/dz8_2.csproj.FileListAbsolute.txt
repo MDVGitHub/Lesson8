@@ -1,0 +1,15 @@
+C:\Users\dmaka\Desktop\С##\Lesson8\dz8_2\obj\Debug\net7.0\dz8_2.csproj.AssemblyReference.cache
+C:\Users\dmaka\Desktop\С##\Lesson8\dz8_2\obj\Debug\net7.0\dz8_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmaka\Desktop\С##\Lesson8\dz8_2\obj\Debug\net7.0\dz8_2.AssemblyInfoInputs.cache
+C:\Users\dmaka\Desktop\С##\Lesson8\dz8_2\obj\Debug\net7.0\dz8_2.AssemblyInfo.cs
+C:\Users\dmaka\Desktop\С##\Lesson8\dz8_2\obj\Debug\net7.0\dz8_2.csproj.CoreCompileInputs.cache
+C:\Users\dmaka\Desktop\С##\Lesson8\dz8_2\bin\Debug\net7.0\dz8_2.exe
+C:\Users\dmaka\Desktop\С##\Lesson8\dz8_2\bin\Debug\net7.0\dz8_2.deps.json
+C:\Users\dmaka\Desktop\С##\Lesson8\dz8_2\bin\Debug\net7.0\dz8_2.runtimeconfig.json
+C:\Users\dmaka\Desktop\С##\Lesson8\dz8_2\bin\Debug\net7.0\dz8_2.dll
+C:\Users\dmaka\Desktop\С##\Lesson8\dz8_2\bin\Debug\net7.0\dz8_2.pdb
+C:\Users\dmaka\Desktop\С##\Lesson8\dz8_2\obj\Debug\net7.0\dz8_2.dll
+C:\Users\dmaka\Desktop\С##\Lesson8\dz8_2\obj\Debug\net7.0\refint\dz8_2.dll
+C:\Users\dmaka\Desktop\С##\Lesson8\dz8_2\obj\Debug\net7.0\dz8_2.pdb
+C:\Users\dmaka\Desktop\С##\Lesson8\dz8_2\obj\Debug\net7.0\dz8_2.genruntimeconfig.cache
+C:\Users\dmaka\Desktop\С##\Lesson8\dz8_2\obj\Debug\net7.0\ref\dz8_2.dll
